@@ -1,5 +1,5 @@
 # Sudoku solver
-This is c++ program a sudoku solver using the backtracking algorithm.
+This is c++ program a sudoku(9x9) solver using the backtracking algorithm.
 
 ## Work example
 ![Sudoku-solver-example](example/sudoku-solver-example.png)
@@ -7,4 +7,5 @@ This is c++ program a sudoku solver using the backtracking algorithm.
 ## TODO:
 - [ ] Code optimization
 - [ ] Calculate asymptotic complexity
-- [ ] GUI maybe...
+- [ ] Search another algoritm
+- [ ] Add GUI maybe...
